@@ -1,17 +1,17 @@
 {
   "main.css": "/ibher/static/css/main.8d50cac9.chunk.css",
-  "main.js": "/ibher/static/js/main.6665917a.chunk.js",
-  "main.js.map": "/ibher/static/js/main.6665917a.chunk.js.map",
+  "main.js": "/ibher/static/js/main.36fa5e1b.chunk.js",
+  "main.js.map": "/ibher/static/js/main.36fa5e1b.chunk.js.map",
   "static/css/1.dba5b00e.chunk.css": "/ibher/static/css/1.dba5b00e.chunk.css",
   "static/js/1.74c14461.chunk.js": "/ibher/static/js/1.74c14461.chunk.js",
   "static/js/1.74c14461.chunk.js.map": "/ibher/static/js/1.74c14461.chunk.js.map",
   "runtime~main.js": "/ibher/static/js/runtime~main.9ab461fe.js",
   "runtime~main.js.map": "/ibher/static/js/runtime~main.9ab461fe.js.map",
   "static/media/Loading.svg": "/ibher/static/media/Loading.9e1be994.svg",
-  "static/media/slick-theme.css": "/ibher/static/media/slick.b7c9e1e4.woff",
+  "static/media/slick-theme.css": "/ibher/static/media/slick.f97e3bbf.svg",
   "static/css/main.8d50cac9.chunk.css.map": "/ibher/static/css/main.8d50cac9.chunk.css.map",
   "static/css/1.dba5b00e.chunk.css.map": "/ibher/static/css/1.dba5b00e.chunk.css.map",
   "index.html": "/ibher/index.html",
-  "precache-manifest.b1e3bac2472b537a2cd7494ffd63d3f7.js": "/ibher/precache-manifest.b1e3bac2472b537a2cd7494ffd63d3f7.js",
+  "precache-manifest.061692c8aee5327f3817d21fe3cdc187.js": "/ibher/precache-manifest.061692c8aee5327f3817d21fe3cdc187.js",
   "service-worker.js": "/ibher/service-worker.js"
 }
