@@ -36,11 +36,10 @@ class Header extends React.Component {
     if(!this.state.collapsed) {
       collapsedClass = "";
     }
-
     return (
       <nav className="sbc-navbar navbar fixed-top navbar-expand-xl navbar-light">
         <Link to="/" className="navbar-brand" onClick={this.navLinkClick}>
-          <img className="sbc-navbar-logo" src="/img/logo_menu.png" srcSet="/img/ibher-logo-inicio.png" alt="IBHER Pueblo Nuevo"/>
+          <img className="sbc-navbar-logo" src="/img/logo_menu.png" srcSet="/img/Ibher-logo-inicio.png" alt="IBHER Pueblo Nuevo"/>
         </Link>
 
         <button className="navbar-toggler" type="button" onClick={this.navBarToggleClick}>
