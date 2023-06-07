@@ -95,13 +95,13 @@
 }
 
 .image-slide-button:hover {
-  background-color: #ff5a34 !important;
-  border-color: #ff5a34 !important;
+  background-color: #14d2eb !important;
+  border-color: #14d2eb  !important;
 }
 
 .image-slide-button:active {
-  background-color: #ff5a34 !important;
-  border-color: #ff5a34 !important;
+  background-color: #14d2eb  !important;
+  border-color: #14d2eb  !important;
 }
 
 .image-slide-button:focus {
